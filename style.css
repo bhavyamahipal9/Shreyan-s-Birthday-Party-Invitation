@@ -1,0 +1,29 @@
+body{
+    background-size: repeat;
+    background-color: gold;
+}
+
+h1{
+    font-family: 'Birthstone', cursive;
+    font-size: 500%;
+}
+
+#aroza{
+    font-family: 'Zen Antique', serif;
+    font-size: 50px;
+}
+
+hr{
+    width: 75%;
+}
+
+img{
+    border-radius: 50px;
+}
+
+h4
+{
+   background-color: grey;
+   color:white;
+   line-height: 2;
+}
